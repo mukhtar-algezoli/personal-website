@@ -20,7 +20,7 @@ social:
     link: https://github.com/mukhtar-algezoli
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/drive/u/0/my-drive
 organizations:
   - name: The University Of Edinburgh
     url: https://www.ed.ac.uk/
