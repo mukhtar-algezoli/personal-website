@@ -43,6 +43,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an AI MSc student at the University of Edinburgh with a full scholarship from DeepMind and an expected graduation date of 2023. My main area of research is Natural Language processing, especially language modeling, information retrieval, and speech, I also have good experience with computer vision and graphics. before UoE I co-founded EnigmaAI the first SaaS and AI solutions provider in Sudan with over 10,000 users/month. I am seeking a new journey as an ML Engineer/Scientist with a product development flavor.
 {style="text-align: justify;"}
