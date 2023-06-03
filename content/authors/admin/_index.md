@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University Of Edinburgh
+    url: https://www.ed.ac.uk/
 education:
   courses:
     - course: PhD in Artificial Intelligence
