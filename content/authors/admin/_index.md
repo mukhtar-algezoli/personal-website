@@ -31,7 +31,7 @@ education:
   courses:
     - course: MSc in Artificial Intelligence
       institution: The University Of Edinburgh
-      year: 2017
+      year: 2023
     - course: BSc in Electrical and Electronic Engineering
       institution: University Of Khartoum
       year: 2020
