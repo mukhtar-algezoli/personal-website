@@ -1,6 +1,6 @@
 ---
 title: Mukhtar Mohamed
-role: Professor of Artificial Intelligence
+role: ""
 avatar_filename: personal_pic.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
