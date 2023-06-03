@@ -11,13 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: mukhtaralgezoli@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlVLck4lr0jwgZumkeybLnLAnr1PG8vtLma_9K5PBup8Vc-GVh6TdRAVDEBIEsLrmB0VIBMKlZFRW54I6Q&user=0LmLMMAAAAAJ
