@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlVLck4lr0jwgZumkeybLnLAnr1PG8vtLma_9K5PBup8Vc-GVh6TdRAVDEBIEsLrmB0VIBMKlZFRW54I6Q&user=0LmLMMAAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mukhtar-algezoli
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
