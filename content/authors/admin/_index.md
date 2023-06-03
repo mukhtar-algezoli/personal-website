@@ -32,7 +32,7 @@ education:
     - course: MSc in Artificial Intelligence
       institution: The University Of Edinburgh
       year: 2023
-    - course: BSc in Electrical and Electronic Engineering
+    - course: BSc in Electrical and Electronic Engineering (Software Engineering Major)
       institution: University Of Khartoum
       year: 2020
 superuser: true
