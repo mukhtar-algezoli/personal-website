@@ -5,12 +5,12 @@ avatar_filename: assets/media/personal_pic.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Distributed Training
+  - Large Scale Engineering (Distributed Training)
   - Language modeling
   - information retrieval
   - speech
   - Computer Vision
-  - graphics
+  - ML Computer Graphics
 social:
   - icon: envelope
     icon_pack: fas
