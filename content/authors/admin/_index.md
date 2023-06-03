@@ -1,7 +1,7 @@
 ---
 title: Mukhtar Mohamed
 role: ""
-avatar_filename: personal_pic.jpg
+avatar_filename: assets/media/personal_pic.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
