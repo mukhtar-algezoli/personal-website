@@ -175,10 +175,10 @@ sections:
       buttons:
         - name: Game Development
           tag: Demo
-        - name: All
-          tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: All
+          tag: '*'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
