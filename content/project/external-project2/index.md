@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: External Project2
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - Demo
