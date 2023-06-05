@@ -1,6 +1,6 @@
 ---
 title: Game Development
-summary: An example of linking directly to an external project website using `external_link`.
+summary: something something something something.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
