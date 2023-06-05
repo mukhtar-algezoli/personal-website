@@ -1,5 +1,5 @@
 ---
-title: Crash Balls
+title: Game Development
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - Demo
