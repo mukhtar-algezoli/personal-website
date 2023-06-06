@@ -18,7 +18,7 @@ Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse plate
 
 <!-- {{< figure src="icon.png" caption="A caption" numbered="true" >}} -->
 
-{{< gallery album="crashballs" resize_options="25x25" >}}
+{{< gallery album="crashballs">}}
 
 Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
 
