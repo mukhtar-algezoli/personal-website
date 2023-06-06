@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Self-driving neural network car in GTA San Andreas
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
