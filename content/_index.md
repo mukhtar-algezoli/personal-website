@@ -183,7 +183,11 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
-      color: 'navy'
+      background:
+          # Choose a color such as from https://html-color-codes.info
+          color: 'navy'
+          # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+          text_color_light: true
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   # - block: markdown
