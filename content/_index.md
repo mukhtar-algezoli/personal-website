@@ -200,8 +200,8 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
-          # For Showcase view, flip alternate rows?
-          flip_alt_rows: false
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   # - block: markdown
   #   content:
   #     title: Gallery
