@@ -176,10 +176,10 @@ sections:
       buttons:
         - name: Game Development
           tag: Demo
-        - name: Deep Learning
+        - name: Machine Learning
           tag: Deep Learning
-        - name: All
-          tag: '*'
+        - name: Systems Design & MLOps
+          tag: 'Systems Design'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
