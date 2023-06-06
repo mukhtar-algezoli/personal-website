@@ -21,6 +21,7 @@ Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse plate
 {{< gallery album="crashballs">}}
 
 <!-- {{< video src="https://www.youtube.com/shorts/5KKRpaquSOI" controls="yes" >}} -->
+{{< youtube 5KKRpaquSOI>}}
 {{< youtube ZCC9qmWGsFk>}}
 
 
