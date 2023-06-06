@@ -5,6 +5,14 @@ tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
 
+design:
+  background:
+    # Choose a color such as from https://html-color-codes.info
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: true
+
+
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
