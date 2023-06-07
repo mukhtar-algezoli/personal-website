@@ -174,10 +174,10 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: Game Development
-          tag: Demo
         - name: Machine Learning
           tag: Deep Learning
+        - name: Game Development
+          tag: Demo
         - name: Systems Design & MLOps
           tag: 'Systems Design'
     design:
