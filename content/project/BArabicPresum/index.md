@@ -18,7 +18,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/mukhtar-algezoli/Arabic_PreSumm'
-url_pdf: 'https://arxiv.org/abs/2004.14135'
+# url_pdf: 'https://arxiv.org/abs/2004.14135'
 url_slides: ''
 url_video: ''
 
