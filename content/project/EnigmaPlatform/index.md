@@ -1,7 +1,6 @@
 ---
 title: EnigmaAI Platform
-summary: I was responsible for managing and designing EnigmaAI platform, which allows customers from all sectors (Telecom, Banking, E-commerse) to create interactive chatbots in social media (Facebook, Messenger, Whatsapp and Twitter) without coding  experiece or any help from our team, this project was first hosted in Google Cloud Platform then migrated to AWS because of AWS Activate Grant.
-To know more signup and create your chatbot at platform.enigma-ai.com.
+summary: An example of using the in-built project page.
 tags:
   - systems design
 date: '2016-04-27T00:00:00Z'
