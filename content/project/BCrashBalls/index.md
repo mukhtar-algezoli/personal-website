@@ -20,7 +20,7 @@ image:
   caption: ''
   focal_point: Smart
 ---
-
+The first standlone online multiplayer game that I developed by myself as a tribute for one of my favourite games in my childhood "Crash Bash".
 
 <!-- {{< figure src="icon.png" caption="A caption" numbered="true" >}} -->
 
