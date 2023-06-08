@@ -12,7 +12,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-url_code: ''
+url_code: 'enigma-ai.com'
 url_pdf: ''
 url_slides: ''
 url_video: ''
