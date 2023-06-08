@@ -28,6 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+slides: example
 ---
 
 Our platform offers a unique "one to many" feature through our customized chatbot builder, enabling you to communicate with customers across multiple channels in a single interface. The intuitive and customizable chatbot allows you to tailor conversations to fit your customers' specific needs. You can quickly respond to inquiries, provide support, and initiate sales conversations all in one place. Our secure and reliable chatbot is powered by advanced AI technology, ensuring your conversations are private and protected. Plus, our highly scalable chatbot allows you to add new features and capabilities as your business grows.
