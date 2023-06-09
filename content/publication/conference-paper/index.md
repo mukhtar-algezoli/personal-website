@@ -7,7 +7,6 @@ title: 'SudaBERT: A Pre-trained Encoder Representation For Sudanese Arabic Diale
 authors:
   - admin
   - Khalid Elmadani
-  - Mukhtar Mohamed
   - Muhammed Saeed
 
 
