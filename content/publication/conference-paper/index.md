@@ -1,20 +1,20 @@
 ---
-title: 'SudaBERT: A Pre-trained Encoder Representation For Sudanese Arabic Dialect'
+title: 'BERT Fine-tuning For Arabic Text Summarization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Khalid Elmadani
-  - Muhammed Saeed
+  - Khalid N. Elmadani
+  - Anas Showk
 
 
 # date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-02-26T00:00:00Z'
+publishDate: '2020-03-29T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,10 +23,10 @@ publishDate: '2021-02-26T00:00:00Z'
 # publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 2020 International Conference on Computer, Control, Electrical, and Electronics Engineering (ICCCEEE)
+publication: ICLR 2020
 # publication_short: In *ICW*
 
-abstract: Bidirectional Encoder Representations from Transformers (BERT) has proven to be very efficient at Natural Language Understanding (NLU), as it allows to achieve state-of-the-art results in most NLU tasks. In this work we aim to utilize the power of BERT in Sudanese Arabic dialect, producing word representation for sentences in Sudanese dialect . We collected over 7 million sentences in Sudanese dialect which is used to resume the training of the original pre-trained Arabic-BERT. Our model -SudaBERT- has achieved better performance on the Sudanese Sentiment Analysis task, this clarifies that SudaBERT works better in understanding Sudanese Dialect which is the domain we are interested in.
+abstract: Fine-tuning a pretrained BERT model is the state of the art method for extractive/abstractive text summarization, in this paper we showcase how this fine-tuning method can be applied to the Arabic language to both construct the first documented model for abstractive Arabic text summarization and show its performance in Arabic extractive summarization. Our model works with multilingual BERT (as Arabic language does not have a pretrained BERT of its own). We show its performance in English corpus first before applying it to Arabic corpora in both extractive and abstractive tasks.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9429651'
+url_pdf: 'https://arxiv.org/abs/2004.14135'
 url_code: ''
 url_dataset: ''
 url_poster: ''
