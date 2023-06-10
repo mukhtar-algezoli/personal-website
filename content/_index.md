@@ -69,32 +69,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Co-founder, ML Engineer
+          company: EnigmaAI
+          company_url: 'enigma-ai.com'
+          company_logo: EnigmaLogo
+          location: Khartoum
+          date_start: '2022-09-01'
+          date_end: '2023-04-15'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              
+              - I downgraded my position to ML Engineer So that I could start my MSc program with a full scholarship from DeepMind.
+              - Although EnigmaAI was sky rocketing doubling in size each year, but a military conflict errupted in Sudan causing us to seize our operation.
 
         - title: Artificial Intelligence MSc
           company: The University Of Edinburgh
