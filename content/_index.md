@@ -124,19 +124,13 @@ sections:
               * Deploying
 
 
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+        - title: Internship
+          company: MTN Sudan
+          company_logo: MTN
+          location: Khartoum
+          date_start: '2020-01-01'
+          date_end: '2020-03-01'
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Game Developer
           company: Freelancer
           company_url: ''
