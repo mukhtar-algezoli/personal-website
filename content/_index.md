@@ -109,27 +109,26 @@ sections:
               * Modelling
               * Deploying
 
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Co-founder, Tech Lead
+          company: EnigmaAI
+          company_url: 'enigma-ai.com'
+          company_logo: EnigmaLogo
+          location: Khartoum
+          date_start: '2021-03-01'
+          date_end: '2022-09-01'
           description: |2-
-              Responsibilities include:
+              EnigmaAI is the first SaaS and AI solutions provider in Sudan. We provide conversational AI chatbots for customer service and commerce running on different social media platforms with more than 10,000 active users/month.
 
-              * Analysing
-              * Modelling
-              * Deploying
+              Responsibilities:
+              I was responsible for managing the technical side; mainly trying to create feature-rich chatbots by adding machine learning applications like recommendation systems, question-answering to answer FAQs in the local Sudanese dialect, Customer Value Maximization systems, and product identification using computer vision. I was also responsible for developing our platform for the ease of use of E-commerce stores.please find our platform
 
 
         - title: Internship
           company: MTN Sudan
           company_logo: MTN
           location: Khartoum
-          date_start: '2020-01-01'
-          date_end: '2020-03-01'
+          date_start: '2021-01-01'
+          date_end: '2021-03-01'
 
         - title: Game Developer
           company: Freelancer
