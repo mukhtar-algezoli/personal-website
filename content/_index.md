@@ -95,19 +95,17 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+        - title: Artificial Intelligence MSc
+          company: The University Of Edinburgh
+          company_url: ''
+          company_logo: UOE
+          location: Edinburgh
+          date_start: '2022-09-01'
+          date_end: '2023-09-01'
+          description: |2-
+              DeepMind Scholarship
+
 
         - title: Co-founder, Tech Lead
           company: EnigmaAI
