@@ -149,7 +149,7 @@ sections:
         - title: BSc Student
           company: University Of Khartoum
           company_url: ''
-          company_logo: org-x
+          company_logo: uofk
           location: Khartoum
           date_start: '2014-10-01'
           date_end: '2020-10-01'
