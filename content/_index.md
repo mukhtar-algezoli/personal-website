@@ -72,7 +72,7 @@ sections:
 
         - title: Co-founder, ML Engineer
           company: EnigmaAI
-          company_url: 'enigma-ai.com'
+          company_url: 'https://www.enigma-ai.com/'
           company_logo: EnigmaLogo
           location: Khartoum
           date_start: '2022-09-01'
@@ -95,7 +95,7 @@ sections:
 
         - title: Co-founder, Tech Lead
           company: EnigmaAI
-          company_url: 'enigma-ai.com'
+          company_url: 'https://www.enigma-ai.com/'
           company_logo: EnigmaLogo
           location: Khartoum
           date_start: '2021-03-01'
