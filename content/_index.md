@@ -80,7 +80,7 @@ sections:
           description: |2-
               
               - I downgraded my position to ML Engineer So that I could start my MSc program with a full scholarship from DeepMind.
-              - Although EnigmaAI was sky rocketing doubling in size each year, but a military conflict errupted in Sudan causing us to seize our operation.
+              - Although EnigmaAI was sky rocketing doubling in size each year, but a military conflict erupted in Sudan causing us to seize our operation.
 
         - title: Artificial Intelligence MSc
           company: The University Of Edinburgh
